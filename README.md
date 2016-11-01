@@ -1,0 +1,2 @@
+# DulcApp
+Aplicación en iOS
